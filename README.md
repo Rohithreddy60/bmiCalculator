@@ -1,3 +1,10 @@
+Team Members:
+Rohith Reddy Mangireddy
+Anudeep Sai Chiluveri
+Sri Harshavardhan Pulluru
+
+
+
 Screenshots
 
 
@@ -13,4 +20,9 @@ Screenshots
 
 
 Short video
+
+
+https://github.com/Rohithreddy60/bmiCalculator/assets/156548273/a9903771-3a04-48c0-baf8-d39d07a85e57
+
+
 
